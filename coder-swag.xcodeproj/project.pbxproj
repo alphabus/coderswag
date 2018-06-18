@@ -17,6 +17,7 @@
 		5A4784AC20C77D75003B5B36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A4784AA20C77D75003B5B36 /* LaunchScreen.storyboard */; };
 		5A4784B720C781EF003B5B36 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A4784B620C781EF003B5B36 /* CategoryCell.swift */; };
 		5AD73E8B20D2008800D94D4F /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5AD73E8A20D2008800D94D4F /* Product.swift */; };
+		5ADA706620D5CCA0009FCCFD /* ProductVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ADA706520D5CCA0009FCCFD /* ProductVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		5A4784AD20C77D75003B5B36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5A4784B620C781EF003B5B36 /* CategoryCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
 		5AD73E8A20D2008800D94D4F /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		5ADA706520D5CCA0009FCCFD /* ProductVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 			isa = PBXGroup;
 			children = (
 				5A4784A320C77D73003B5B36 /* CategoriesVC.swift */,
+				5ADA706520D5CCA0009FCCFD /* ProductVC.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -186,6 +189,7 @@
 				5A4784A220C77D73003B5B36 /* AppDelegate.swift in Sources */,
 				5A4784B720C781EF003B5B36 /* CategoryCell.swift in Sources */,
 				5A2BE0DA20D0B7180065A35A /* ProductCell.swift in Sources */,
+				5ADA706620D5CCA0009FCCFD /* ProductVC.swift in Sources */,
 				5A36C1ED20CD9D1300A50DDB /* Category.swift in Sources */,
 				5A36C1F020CD9E9F00A50DDB /* DataService.swift in Sources */,
 				5AD73E8B20D2008800D94D4F /* Product.swift in Sources */,
